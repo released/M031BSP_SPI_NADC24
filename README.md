@@ -53,5 +53,5 @@ when measure differential channel
 ![image](https://github.com/released/M031BSP_SPI_NADC24/blob/main/log_differential.jpg)
 
 7. wire connection
-![image](https://github.com/released/M031BSP_SPI_NADC24/blob/main/Single_End_Connection.jpg)
+![image](https://github.com/released/M031BSP_SPI_NADC24/blob/main/Single_End_Connection.png)
 
