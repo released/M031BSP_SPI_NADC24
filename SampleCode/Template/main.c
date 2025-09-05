@@ -838,7 +838,6 @@ int main()
     #elif defined (TEST_DIFFERENTIAL)
     nadc_set_channel(NADC_differential,0);
     #endif
-    SPI_Send_ADC_Commnad(ADC_START_CONVERSION_CMD);
 
     /*
         ADC0_CH2 : PB2
